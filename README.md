@@ -5,8 +5,8 @@
 <br>
 <p> click below link to open this project in your desktop/mobile/tab </p>
 <a href="https://prathameshvattamwar.github.io/gridweb">Click Here to open web</a>
-<br>
-<p>Below are the output demo of this project</p>
+<br><br>
+<p style="margin-top:2vh;">Below are the output demo of this project</p>
 
 <br>
 <h2>Desktop View</h2>
