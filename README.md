@@ -14,3 +14,6 @@
 
 <h2>Mobile View</h2>
 <img src="https://i.imgur.com/Dwll8k4.png" alt="Mobile view"/>
+<br><br>
+
+<h3>Follow me for more mini project ideas and free code access : <a href="https://github.com/prathameshvattamwar">Click here to follow</a></h3>
